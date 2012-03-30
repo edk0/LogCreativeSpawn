@@ -1,0 +1,8 @@
+author: Ed Kellett
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: uk.co.edk141.logspawning.LCS
+name: LogCreativeSpawn
+startup: postworld
+url: http://edk141.co.uk/
+version: '1.0'
